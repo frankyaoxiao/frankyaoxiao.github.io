@@ -14,8 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Frank Xiao, a sophmore at Caltech studying Computer Science. I'm currently a memeber of the Professor Pietro Perona's [Vision Lab] (https://www.vision.caltech.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests lies in the theory and applications of image generation models, particularly **diffusion** and **flow-based** models. For instance, I've worked on using diffusion models to generate images that consistently fool state of the art face recognition models. I'm also interested in vision and vision related applications, having built a fully automated UAV swarm solution for fracture mapping in collaboration with the (USGS) [https://www.usgs.gov/] and building the current state of the art signature verification system.
